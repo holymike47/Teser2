@@ -10,7 +10,10 @@ public class Teser2 {
 		// TODO Auto-generated method stub
 		int a, b;
 		int i = 2 + 3;
+		a = 3;
+		b = 4;
 		System.out.println(i);
+		System.out.println(a + b);
 	}
 
 }
